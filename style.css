@@ -17,6 +17,8 @@ body {
     border-radius: 1rem;
     min-height: 45vh;
     width: 40vh;
+    box-shadow:  22px 22px 44px #cfc29e,
+             -22px -22px 44px #ffffd6;
 }
 
 form {
